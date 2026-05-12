@@ -1,3 +1,7 @@
+---
+apply: always
+---
+
 # Global Rules
 
 - /caveman full
